@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>1.5 Casting and Ranges of Values</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 40px auto; padding: 0 20px; color: #333; }
+        code { background: #f4f4f4; padding: 2px 6px; border-radius: 4px; font-family: monospace; }
+        ul { padding-left: 20px; }
+        li { margin-bottom: 8px; }
+        a { color: #0066cc; text-decoration: none; }
+    </style>
+</head>
+<body>
+    <p><a href="../index.html">← Back to Overview</a></p>
+    <h1>1.5 Casting and Ranges of Values</h1>
+
+    <ul>
+        <li><strong>Type Casting:</strong> Explicitly converting a value from one primitive data type to another.
+            <ul>
+                <li>Example: <code>(double) 2</code> casts the integer <code>2</code> into a <code>double</code> value (<code>2.0</code>).</li>
+            </ul>
+        </li>
+        <li><strong>Integer Boundaries:</strong> Integers in Java are 32-bit signed values ranging from <code>Integer.MIN_VALUE</code> ($-2^{31}$) to <code>Integer.MAX_VALUE</code> ($2^{31} - 1$).</li>
+        <li><strong>Integer Overflow/Underflow:</strong> Attempting to store a calculation that exceeds these limits wraps around to the opposite side of the limit, causing erroneous values.</li>
+    </ul>
+</body>
+</html>
