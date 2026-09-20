@@ -10,13 +10,13 @@
 
     <h2>Week 1: Hello World in Java</h2>
     <p><strong>Concept:</strong> Java program execution and basic syntax.</p>
-    <pre><code>
-public class HelloWorld {
+    
+    <pre><code>public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
     }
-}
-    </code></pre>
+}</code></pre>
+
     <p><strong>Reflection:</strong> Learned how the <code>main</code> method serves as the entry point for Java programs.</p>
 </body>
 </html>
