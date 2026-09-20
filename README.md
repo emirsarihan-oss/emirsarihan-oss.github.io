@@ -1,39 +1,32 @@
-<div align="center">
+# emirsarihan-oss.github.io-csa
 
-# Emir Sarıhan
+## AP CS A
 
-[home](#) | [projects](#) | [notes](#)
-
-🌲 💻 📚 🎨
-
-</div>
+Class notes and projects for AP Computer Science A.
 
 ---
 
-### About Me
+### Projects
 
-👋 Hi there! My name is Emir, and I'm a student studying Computer Science. I use this site to share my class notes, Java code, exercises, and personal projects.
-
-Writing code allows me to build solutions and explore technology. Within computer science, I am interested in software development, Java programming, and web technologies.
-
-In my free time, I enjoy coding, exploring new technologies, and learning new concepts.
-
----
-
-### Recently...
-
-➞ **Taking AP Computer Science A:** Currently learning core Java programming concepts, object-oriented principles, and algorithm design. *(September 2026)*
-
-➞ **Created GitHub Portfolio Page:** Built and deployed this website to document weekly class progress and projects. *(September 2026)*
-
-➞ **Learning Java Fundamentals:** Working on basic syntax, control structures, and object-oriented programming. *(September 2026)*
+| Project | Code |
+| :--- | :--- |
+| Farmer Ryan | [FarmerRyan.java](FarmerRyan.java) |
+| Get It Into Gear | [GetItIntoGear.java](GetItIntoGear.java) |
 
 ---
 
-<div align="center">
+### Notes
 
-*find me on the interwebs:*
+#### Unit 1: Using Objects and Methods
 
-[GitHub](https://github.com/emirsarihan-oss)
-
-</div>
+| # | Topic |
+| :--- | :--- |
+| 1.1 | [Introduction to Algorithms, Programming, and Compilers](notes.html#1.1) |
+| 1.2 | [Variables and Data Types](notes.html#1.2) |
+| 1.3 | [Expressions and Output](notes.html#1.3) |
+| 1.4 | [Assignment and Input](notes.html#1.4) |
+| 1.5 | [Casting and Ranges of Values](notes.html#1.5) |
+| 1.6 | [Compound Assignment Operators](notes.html#1.6) |
+| 1.7 | [APIs and Libraries](notes.html#1.7) |
+| 1.8 | [Documentation with Comments and Preconditions](notes.html#1.8) |
+| 1.9 | [Method Signatures](notes.html#1.9) |
