@@ -5,12 +5,14 @@
     <title>My Computer Science Portfolio</title>
 </head>
 <body>
+    <p><a href="index.html">Home</a> | <a href="notes.html">Class Notes</a></p>
+
     <h1>My Java & CS Notes</h1>
     <p>Welcome! This site tracks my class notes, Java projects, and learning journey.</p>
 
     <h2>Week 1: Hello World in Java</h2>
     <p><strong>Concept:</strong> Java program execution and basic syntax.</p>
-    
+
     <pre><code>public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
