@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>1.4 Assignment and Input</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 40px auto; padding: 0 20px; color: #333; }
+        code { background: #f4f4f4; padding: 2px 6px; border-radius: 4px; font-family: monospace; }
+        pre { background: #f8f9fa; border: 1px solid #e9ecef; border-radius: 6px; padding: 16px; overflow-x: auto; }
+        ul { padding-left: 20px; }
+        li { margin-bottom: 8px; }
+        a { color: #0066cc; text-decoration: none; }
+    </style>
+</head>
+<body>
+    <p><a href="../index.html">← Back to Overview</a></p>
+    <h1>1.4 Assignment and Input</h1>
+
+    <ul>
+        <li><strong>Null References:</strong> Object reference variables (like <code>String</code>) can be assigned <code>null</code>, indicating they currently point to no object in memory.</li>
+        <li><strong>Reading User Input:</strong> The <code>Scanner</code> class from <code>java.util</code> reads keyboard input from standard input (<code>System.in</code>).</li>
+    </ul>
+
+    <pre><code>import java.util.Scanner;
+
+Scanner scan = new Scanner(System.in);
+String name = scan.nextLine(); // Reads full line of text input</code></pre>
+</body>
+</html>
