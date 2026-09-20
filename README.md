@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://via.placeholder.com/120" width="120" style="border-radius: 50%;" alt="Profile Picture"/>
-
 # Emir Sarıhan
 
 [home](#) | [projects](#) | [notes](#)
@@ -36,6 +34,6 @@ In my free time, I enjoy coding, exploring new technologies, and learning new co
 
 *find me on the interwebs:*
 
-[GitHub](https://github.com/emirsarihan-oss) | [LinkedIn](#) | [Email](mailto:example@email.com)
+[GitHub](https://github.com/emirsarihan-oss)
 
 </div>
