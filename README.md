@@ -17,6 +17,7 @@ Class notes and projects for AP Computer Science A.
 | Yemeksepeti | [Yemeksepeti.java](Yemeksepeti.java) |
 | FilamentTracker | [FİLAMENT.java](FİLAMENT.java) |
 | Emergency | [Emergency.java](Emergency.java) |
+| Digit Detectife | [digitdetective.java](digitdetectife.java) |
 | Undo Redo | YOK|
 
 
