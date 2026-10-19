@@ -19,6 +19,7 @@ Class notes and projects for AP Computer Science A.
 | Emergency | [Emergency.java](Emergency.java) |
 | Digit Detectife | [digitdefective.java](digitdefective.java) |
 | Undo Redo | YOK|
+| Word WHile | [wordwhile.java](wordwhile.java) |
 
 
 
