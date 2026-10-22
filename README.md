@@ -20,6 +20,8 @@ Class notes and projects for AP Computer Science A.
 | Digit Detectife | [digitdefective.java](digitdefective.java) |
 | Undo Redo | YOK|
 | Word WHile | [wordwhile.java](wordwhile.java) |
+| While vs For| [printwhilefor.java](printwhilefor.java) |
+
 
 
 
